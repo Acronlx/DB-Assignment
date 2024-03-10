@@ -59,5 +59,3 @@ CREATE TABLE Product_Discount (
         ON DELETE CASCADE
 );
 
-SELECT * FROM Product;
-SELECT * FROM Product_Category;
